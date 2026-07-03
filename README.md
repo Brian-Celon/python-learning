@@ -24,3 +24,120 @@ The following project highlights my journey into learning Python for my class ED
 ├── README.md <br>
 ├── .gitignore <br>
 └── LICENSE <br>
+# 🐍 Python Learning Journey
+
+## Course Progress
+
+### Module 1 - Introduction
+- [ ] Hello World
+- [ ] Variables
+- [ ] Data Types
+- [ ] Input & Output
+- [ ] Comments
+- [ ] Operators
+- [ ] Exercises
+
+### Module 2 - Introduction Continued
+- [ ] Practice 1
+- [ ] Practice 2
+- [ ] Exercises
+
+### Module 3 - String Formatting & Type Conversion
+- [ ] String Formatting
+- [ ] f-Strings
+- [ ] Type Conversion
+- [ ] Exercises
+
+### Module 4 - Type Casting & Functions
+- [ ] Type Casting
+- [ ] Built-in Functions
+- [ ] Exercises
+
+### Module 5 - Decision Control Flow
+- [ ] if
+- [ ] if-else
+- [ ] if-elif-else
+- [ ] Nested if
+- [ ] Logical Operators
+- [ ] Exercises
+
+### Module 6 - Loop Control Flow
+- [ ] for Loops
+- [ ] while Loops
+- [ ] break & continue
+- [ ] range()
+- [ ] Nested Loops
+- [ ] Exercises
+
+### Module 7 - Functions
+- [ ] Basic Functions
+- [ ] Parameters
+- [ ] Return Values
+- [ ] Scope
+- [ ] Recursion
+- [ ] Exercises
+
+### Module 8 - Strings
+- [ ] Indexing
+- [ ] Slicing
+- [ ] String Methods
+- [ ] Searching
+- [ ] Exercises
+
+### Module 9 - Lists
+- [ ] Creating Lists
+- [ ] Indexing
+- [ ] Slicing
+- [ ] Methods
+- [ ] Nested Lists
+- [ ] Exercises
+
+### Module 10 - Dictionaries
+- [ ] Creating Dictionaries
+- [ ] Accessing Values
+- [ ] Dictionary Methods
+- [ ] Nested Dictionaries
+- [ ] Exercises
+
+### Module 11 - Tuples
+- [ ] Creating Tuples
+- [ ] Unpacking
+- [ ] Methods
+- [ ] Exercises
+
+### Module 12 - Sets
+- [ ] Creating Sets
+- [ ] Add & Remove
+- [ ] Union & Intersection
+- [ ] Exercises
+
+### Module 13 - Files
+- [ ] Reading Files
+- [ ] Writing Files
+- [ ] Appending Files
+- [ ] CSV Files
+- [ ] Exercises
+
+### Module 14 - Object-Oriented Programming
+- [ ] Classes & Objects
+- [ ] Constructors
+- [ ] Inheritance
+- [ ] Encapsulation
+- [ ] Polymorphism
+- [ ] Exercises
+
+### Module 15 - PyQt5
+- [ ] First Window
+- [ ] Buttons
+- [ ] Labels
+- [ ] Layouts
+- [ ] Simple Application
+
+## Mini Projects
+- [ ] Calculator
+- [ ] Number Guessing Game
+- [ ] To-Do List
+- [ ] Student Grade Manager
+- [ ] Contact Book
+- [ ] Expense Tracker
+- [ ] File Organizer

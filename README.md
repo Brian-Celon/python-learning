@@ -29,11 +29,11 @@ The following project highlights my journey into learning Python for my class ED
 ## Course Progress
 
 ### Module 1 - Introduction
-- [ ] Hello World
-- [ ] Variables
-- [ ] Data Types
-- [ ] Input & Output
-- [ ] Comments
+- [x] Hello World
+- [x] Variables
+- [x] Data Types
+- [x] Input & Output
+- [x] Comments
 - [ ] Operators
 - [ ] Exercises
 

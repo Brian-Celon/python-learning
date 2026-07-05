@@ -54,11 +54,11 @@ The following project highlights my journey into learning Python for my class ED
 - [x] Exercises
 
 ### Module 5 - Decision Control Flow
-- [ ] if
-- [ ] if-else
-- [ ] if-elif-else
-- [ ] Nested if
-- [ ] Logical Operators
+- [x] if
+- [x] if-else
+- [x] if-elif-else
+- [x] Nested if
+- [x] Logical Operators
 - [ ] Exercises
 
 ### Module 6 - Loop Control Flow

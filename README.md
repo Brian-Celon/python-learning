@@ -49,9 +49,9 @@ The following project highlights my journey into learning Python for my class ED
 - [x] Exercises
 
 ### Module 4 - Type Casting & Functions
-- [ ] Type Casting
-- [ ] Built-in Functions
-- [ ] Exercises
+- [x] Type Casting
+- [x] Built-in Functions
+- [x] Exercises
 
 ### Module 5 - Decision Control Flow
 - [ ] if

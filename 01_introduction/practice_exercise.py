@@ -18,5 +18,5 @@ print(f"""Student name: {name} \n
       Weight: {weight} \n
       Age next year: {age_next_year} \n
       Height in meters: {height_in_meters} \n
-      BMI: {bmi.}
+      BMI: {bmi:.2f}
       """)

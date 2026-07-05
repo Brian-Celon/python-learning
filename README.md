@@ -34,13 +34,13 @@ The following project highlights my journey into learning Python for my class ED
 - [x] Data Types
 - [x] Input & Output
 - [x] Comments
-- [ ] Operators
-- [ ] Exercises
+- [x] Operators
+- [x] Exercises
 
 ### Module 2 - Introduction Continued
-- [ ] Practice 1
-- [ ] Practice 2
-- [ ] Exercises
+- [x] Practice 1
+- [x] Practice 2
+- [x] Exercises
 
 ### Module 3 - String Formatting & Type Conversion
 - [ ] String Formatting

@@ -59,10 +59,10 @@ The following project highlights my journey into learning Python for my class ED
 - [x] if-elif-else
 - [x] Nested if
 - [x] Logical Operators
-- [ ] Exercises
+- [x] Exercises
 
 ### Module 6 - Loop Control Flow
-- [ ] for Loops
+- [x] for Loops
 - [ ] while Loops
 - [ ] break & continue
 - [ ] range()

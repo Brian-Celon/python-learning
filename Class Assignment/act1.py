@@ -8,30 +8,29 @@ while True:
         option = int(input("Choice: "))
 
         if option == 1:
-            id = input("Please enter Employee ID: ")
-            for i in employee:
-                if i[0] == id:
-                    print("Duplicate ID Found!")
-                    print("Enter a valid ID")
-                    break
+            number = int(input("How many employees do you want to enter?: "))
+            for i in range(0, number):
+                employee_id = input("Enter Employee ID: ")
+                if i[0] == employee_id:
+                    print("Invalid Employee ID\n Enter valid Employee ID")
                 else:
-                    name = input("Enter Employee Name: ")
-                    age = int(input("Enter Employee Age: "))
-                    position = input("Enter Employee position: ")
-                    salary = float(input("Enter Employee Salary: "))
-                    employee.append([id, name, age, position, salary])
+                    employee_name = input(f"Enter Employee #{i+1} name:")
+                    employee_age = int(input("Enter employee age: "))
+                    employee_position = input("Enter employee position: ")
+                    employee_salary = float(input("Enter Employee Salary: "))
+                    employee.append([employee_id, employee_name, employee_age, employee_position, employee_salary])
                     print(employee)
 
 
 
-        
-        choice = input("Do you want to continue (Y/N)?: ")
-        if choice.upper() == 'Y' or choice.upper() == "N":
-            if choice.upper() == 'n':
-                exit(0)
-            elif choice.upper() == 'y':
-                break
-            else:
-                print("Invalid Input")
+        while True:
+            choice = input("Do you want to continue (Y/N)?: ")
+            if choice.upper() == 'Y' or choice.upper() == "N":
+                if choice.upper() == 'N':
+                    exit(0)
+                elif choice.upper() == 'Y':
+                    break
+                else:
+                    print("Invalid Input")
     except ValueError:
         print("Invalid input!")
